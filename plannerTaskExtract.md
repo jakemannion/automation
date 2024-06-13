@@ -1,12 +1,4 @@
 ```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
-
-```mermaid
     graph TD
    t1["Recurrence"]
    s2["init_assignmentArray"]
